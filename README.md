@@ -4,7 +4,8 @@ A collection of beginner-friendly Python projects built while learning and explo
 
 ---
 
-[Python Mini Projects]<img width="1536" height="1024" alt="Python-Mini-Projects" src="https://github.com/user-attachments/assets/08254b93-f9a0-4e6a-8bb8-c3e01297291d" />
+
+<img width="1536" height="1024" alt="Python-Mini-Projects" src="https://github.com/user-attachments/assets/08254b93-f9a0-4e6a-8bb8-c3e01297291d" />
 
 
 ---
