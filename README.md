@@ -1,2 +1,35 @@
-# Python-Mini-Projects
+# 🐍 Python Mini Projects
+
+A collection of beginner-friendly Python projects built while learning and exploring.
+
+![Python Mini Projects](flowchart.png)
+
+---
+
+## 📂 Projects
+
+| # | Project | Description |
+|---|---|---|
+| 01 | Number Guessing Game | Simple number guessing game |
+| 02 | Password Generator | Generates random passwords |
+| 03 | Todo List | CLI-based task manager |
+| 04 | File Organizer | Organizes files by extension |
+| 05 | Expense Tracker | Tracks daily expenses |
+| 06 | System Monitor | Monitors CPU, memory and disk |
+| 07 | Log Analyzer | Analyzes log files |
+| 08 | Disk Space Analyzer | Analyzes disk usage |
+
+---
+
+## 🎯 Purpose
+
 Learning Python by building small projects, solving problems, and experimenting.
+
+## 🚀 What I'm Learning
+
+- Python fundamentals
+- Problem solving
+- File handling
+- Modules & libraries
+- Error handling
+- Building real-world projects
